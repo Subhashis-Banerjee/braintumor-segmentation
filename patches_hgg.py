@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar 27 07:31:40 2017
-@author: Mohit Singhaniya
+@author: Subhashis Banerjee
 """
 
 ''' Header files '''
