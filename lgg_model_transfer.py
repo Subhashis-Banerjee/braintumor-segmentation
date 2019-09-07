@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  7 15:47:41 2017
 
-@author: servad
+@author: Subhashis Banerjee
 """
 import numpy as np
 import pylab as plt
